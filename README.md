@@ -6,7 +6,7 @@ I wanted to share my own Buster that I use for simple front-end websites that us
 
 I also wrote a rather detailed walkthrough on how to get up and running with Gulp 4, as well as migration tips from Gulp 3. 
 
-## Quickstart guide s
+## Quickstart guide
 
 * Clone or download this Git repo onto your computer.
 * Install [Node.js](https://nodejs.org/en/) if you don't have it yet.
