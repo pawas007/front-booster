@@ -19,7 +19,7 @@ In this proejct, Gulp is configured to run the following functions:
 * Autoprefix and minify the CSS file
 * Concatenate the JS files
 * Uglify the JS files
-* Move final CSS and JS files to the `/dist` folder
+* Move final CSS and JS files to the `/dist` foldersa
 
 
 * gulp - start gulp
